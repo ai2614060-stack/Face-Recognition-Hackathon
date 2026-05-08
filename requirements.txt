@@ -1,0 +1,7 @@
+streamlit
+streamlit-webrtc
+ultralytics
+insightface
+opencv-python-headless
+scikit-learn
+onnxruntime
